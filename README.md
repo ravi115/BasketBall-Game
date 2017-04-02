@@ -10,7 +10,7 @@ b. > glut.h
 c. > glut32.dll 
 d. > glut32.lib
 
-Follow this below download link to download GLUT: - 
+Follow below download link to download GLUT: - 
 https://www.opengl.org/resources/libraries/glut/glut_downloads.php
 
 * Setup Instructions : - 
